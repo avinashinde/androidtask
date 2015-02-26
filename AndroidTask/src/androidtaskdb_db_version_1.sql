@@ -1,0 +1,1 @@
+CREATE  TABLE  IF NOT EXISTS "Favorites" ("media_place_id" VARCHAR PRIMARY KEY  NOT NULL, "media_place_name" VARCHAR, "media_url" VARCHAR, "media_image_local_path" VARCHAR, "lat" VARCHAR, "lng" VARCHAR, "is_open" VARCHAR, "rating" VARCHAR, "reference" VARCHAR, "vicinity" VARCHAR)
